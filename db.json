@@ -3,7 +3,8 @@
         "Colecciones":[
 {
     "id":"1",
-
+    "NumTomos":"5",
+    "Titulos":"Tankes",
     "Edicion_1":"Titulo 1",
     "Edicion_2":"Titulo 2",
     "Edicion_3":"Titulo 3",
@@ -12,7 +13,7 @@
 
 },{
     "id":"2",
-
+    "NumTomos":"6",
     "Edicion_1":"Titulo 5",
     "Edicion_2":"Titulo 6",
     "Edicion_3":"Titulo 7",
